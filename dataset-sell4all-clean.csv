@@ -1,0 +1,498 @@
+Country,Age,Gender,Customer spendings
+Australia,38,Man,559
+Australia,66,Woman,555
+Australia,44,Woman,506
+Australia,55,Man,437
+Australia,57,Woman,328
+Australia,38,Woman,196
+Australia,19,Woman,192
+Australia,56,Woman,189
+Australia,29,Man,169
+Australia,28,Woman,141
+Australia,29,Man,97
+Australia,46,Woman,85
+Australia,44,Man,38
+Austria,68,Woman,567
+Austria,27,Woman,558
+Austria,69,Woman,530
+Austria,47,Man,453
+Austria,29,Man,421
+Austria,45,Man,375
+Austria,70,Woman,373
+Austria,28,Woman,252
+Austria,63,Woman,241
+Austria,50,Woman,194
+Austria,27,Woman,190
+Austria,19,Man,122
+Austria,67,Woman,122
+Austria,27,Woman,82
+Austria,41,Man,22
+Belgium,22,Woman,568
+Belgium,40,Woman,380
+Belgium,73,Woman,311
+Belgium,74,Man,308
+Belgium,64,Woman,307
+Belgium,37,Woman,199
+Belgium,39,Woman,153
+Belgium,34,Man,117
+Belgium,34,Woman,92
+Belgium,47,Man,79
+Belgium,36,Man,74
+Belgium,37,Man,67
+Belgium,46,Woman,61
+Belgium,50,Man,50
+Belgium,21,Woman,40
+Brazil,74,Man,593
+Brazil,27,Woman,586
+Brazil,51,Woman,581
+Brazil,69,Woman,486
+Brazil,44,Woman,469
+Brazil,54,Woman,341
+Brazil,25,Man,335
+Brazil,46,Woman,256
+Brazil,51,Man,147
+Brazil,56,Man,107
+Brazil,24,Woman,73
+Brazil,48,Woman,66
+Brazil,21,Woman,38
+Brazil,65,Woman,35
+Canada,67,Man,540
+Canada,46,Man,453
+Canada,25,Woman,418
+Canada,64,Man,408
+Canada,21,Woman,388
+Canada,44,Woman,355
+Canada,46,Woman,336
+Canada,35,Woman,71
+Canada,54,Woman,57
+Chile,25,Man,553
+Chile,29,Man,501
+Chile,65,Woman,448
+Chile,59,Man,399
+Chile,73,Man,398
+Chile,45,Woman,339
+Chile,41,Man,318
+Chile,38,Man,279
+Chile,65,Woman,267
+Chile,62,Man,257
+Chile,60,Man,197
+Chile,42,Man,177
+Chile,47,Woman,129
+Chile,45,Man,89
+China,40,Woman,515
+China,69,Woman,512
+China,20,Woman,511
+China,37,Woman,504
+China,34,Woman,494
+China,18,Woman,413
+China,49,Woman,412
+China,24,Woman,353
+China,18,Man,341
+China,31,Man,303
+China,68,Man,297
+China,53,Woman,261
+China,29,Woman,196
+China,47,Man,157
+China,18,Woman,153
+China,35,Man,149
+China,49,Woman,130
+China,52,Man,109
+Colombia,34,Woman,584
+Colombia,51,Woman,489
+Colombia,22,Man,487
+Colombia,42,Man,466
+Colombia,37,Woman,373
+Colombia,66,Woman,302
+Colombia,68,Woman,272
+Colombia,18,Man,195
+Colombia,24,Man,155
+Colombia,19,Man,128
+Colombia,47,Man,118
+Colombia,24,Woman,105
+Colombia,21,Woman,79
+Costa Rica,60,Woman,596
+Costa Rica,51,Woman,578
+Costa Rica,67,Man,538
+Costa Rica,23,Woman,441
+Costa Rica,27,Woman,434
+Costa Rica,26,Woman,398
+Costa Rica,55,Man,387
+Costa Rica,45,Woman,146
+Costa Rica,44,Man,115
+Costa Rica,30,Man,79
+Costa Rica,68,Woman,18
+Costa Rica,59,Woman,13
+France,34,Woman,525
+France,69,Woman,522
+France,47,Man,477
+France,67,Woman,463
+France,57,Woman,421
+France,45,Woman,349
+France,45,Man,300
+France,74,Man,278
+France,72,Man,270
+France,72,Woman,242
+France,66,Woman,240
+France,62,Man,240
+France,32,Woman,150
+France,56,Woman,83
+France,46,Woman,25
+France,42,Woman,13
+Germany,38,Man,568
+Germany,26,Man,536
+Germany,40,Man,524
+Germany,51,Woman,475
+Germany,54,Woman,466
+Germany,69,Woman,353
+Germany,57,Woman,310
+Germany,56,Man,303
+Germany,36,Woman,295
+Germany,21,Woman,281
+Germany,62,Man,241
+Germany,61,Woman,221
+Germany,55,Woman,221
+Germany,29,Woman,146
+Germany,57,Woman,32
+Germany,52,Woman,17
+India,41,Man,590
+India,37,Woman,587
+India,38,Man,522
+India,34,Woman,476
+India,61,Woman,390
+India,36,Woman,378
+India,69,Woman,363
+India,59,Woman,299
+India,26,Man,275
+India,70,Woman,260
+India,49,Man,198
+India,71,Man,147
+India,42,Woman,49
+Indonesia,29,Man,563
+Indonesia,42,Woman,472
+Indonesia,34,Man,464
+Indonesia,35,Man,455
+Indonesia,41,Man,438
+Indonesia,30,Woman,420
+Indonesia,58,Man,401
+Indonesia,49,Man,339
+Indonesia,23,Man,333
+Indonesia,59,Man,293
+Indonesia,70,Man,293
+Indonesia,29,Man,286
+Indonesia,55,Man,263
+Indonesia,23,Man,151
+Indonesia,70,Woman,51
+Indonesia,51,Man,14
+Ireland,35,Man,591
+Ireland,33,Man,550
+Ireland,49,Woman,525
+Ireland,69,Man,466
+Ireland,18,Man,457
+Ireland,34,Man,329
+Ireland,71,Woman,311
+Ireland,71,Man,292
+Ireland,67,Man,247
+Ireland,26,Woman,243
+Ireland,58,Man,221
+Ireland,64,Man,193
+Ireland,73,Man,173
+Ireland,60,Woman,166
+Ireland,49,Man,153
+Ireland,36,Man,147
+Ireland,64,Man,141
+Ireland,40,Woman,67
+Ireland,20,Man,12
+Italy,21,Man,500
+Italy,63,Man,491
+Italy,38,Man,362
+Italy,44,Man,346
+Italy,36,Man,234
+Italy,29,Woman,226
+Italy,68,Man,181
+Italy,66,Woman,152
+Italy,23,Woman,124
+Italy,35,Woman,72
+Italy,61,Man,34
+Italy,45,Woman,20
+Mexico,51,Man,572
+Mexico,62,Woman,572
+Mexico,49,Woman,550
+Mexico,59,Man,549
+Mexico,45,Man,537
+Mexico,29,Woman,527
+Mexico,45,Woman,507
+Mexico,41,Man,501
+Mexico,30,Woman,449
+Mexico,29,Man,431
+Mexico,45,Woman,428
+Mexico,32,Man,427
+Mexico,74,Man,408
+Mexico,49,Woman,389
+Mexico,60,Man,338
+Mexico,50,Woman,318
+Mexico,68,Man,276
+Mexico,68,Woman,203
+Mexico,58,Man,186
+Mexico,23,Man,114
+Mexico,25,Man,82
+Mexico,37,Man,72
+Netherlands,71,Man,592
+Netherlands,62,Man,574
+Netherlands,41,Woman,554
+Netherlands,19,Woman,530
+Netherlands,51,Woman,494
+Netherlands,38,Man,490
+Netherlands,55,Man,482
+Netherlands,53,Woman,454
+Netherlands,33,Woman,433
+Netherlands,28,Man,432
+Netherlands,50,Man,421
+Netherlands,71,Woman,377
+Netherlands,40,Man,318
+Netherlands,44,Man,282
+Netherlands,20,Woman,261
+Netherlands,46,Woman,223
+Netherlands,24,Woman,188
+Netherlands,73,Man,78
+Netherlands,52,Woman,30
+New Zealand,22,Woman,598
+New Zealand,19,Woman,557
+New Zealand,69,Woman,529
+New Zealand,37,Woman,508
+New Zealand,39,Woman,502
+New Zealand,36,Man,485
+New Zealand,25,Woman,414
+New Zealand,68,Woman,409
+New Zealand,53,Woman,360
+New Zealand,38,Woman,343
+New Zealand,58,Man,331
+New Zealand,23,Woman,276
+New Zealand,42,Man,236
+New Zealand,19,Woman,199
+New Zealand,60,Man,184
+New Zealand,52,Man,178
+New Zealand,20,Woman,158
+New Zealand,34,Man,79
+New Zealand,63,Woman,50
+Nigeria,38,Man,549
+Nigeria,43,Woman,512
+Nigeria,37,Man,510
+Nigeria,24,Woman,489
+Nigeria,64,Man,477
+Nigeria,37,Woman,411
+Nigeria,28,Woman,374
+Nigeria,66,Man,324
+Nigeria,21,Man,286
+Nigeria,74,Man,258
+Nigeria,27,Woman,57
+Norway,36,Woman,489
+Norway,67,Woman,455
+Norway,67,Man,450
+Norway,35,Woman,433
+Norway,71,Man,356
+Norway,54,Woman,343
+Norway,52,Man,182
+Norway,60,Man,150
+Norway,65,Woman,148
+Norway,44,Woman,125
+Norway,29,Man,93
+Norway,43,Woman,15
+Pakistan,51,Man,585
+Pakistan,65,Woman,573
+Pakistan,22,Man,565
+Pakistan,51,Man,532
+Pakistan,59,Man,372
+Pakistan,44,Man,288
+Pakistan,53,Man,271
+Pakistan,22,Man,254
+Pakistan,37,Woman,173
+Pakistan,36,Woman,156
+Pakistan,67,Woman,96
+Pakistan,41,Woman,41
+Peru,40,Man,541
+Peru,38,Woman,508
+Peru,68,Man,506
+Peru,28,Woman,500
+Peru,62,Man,489
+Peru,29,Woman,446
+Peru,28,Woman,371
+Peru,58,Woman,357
+Peru,68,Woman,288
+Peru,32,Man,280
+Peru,69,Woman,262
+Peru,25,Woman,243
+Peru,24,Woman,204
+Peru,24,Woman,71
+Peru,43,Woman,42
+Philippines,51,Man,592
+Philippines,52,Woman,558
+Philippines,25,Man,483
+Philippines,53,Man,464
+Philippines,54,Man,447
+Philippines,41,Man,421
+Philippines,45,Man,378
+Philippines,40,Woman,323
+Philippines,57,Man,260
+Philippines,67,Woman,256
+Philippines,49,Woman,224
+Philippines,31,Woman,184
+Philippines,60,Woman,143
+Philippines,45,Man,143
+Philippines,74,Man,125
+Poland,55,Man,549
+Poland,52,Woman,493
+Poland,64,Man,491
+Poland,23,Woman,485
+Poland,66,Man,473
+Poland,58,Man,361
+Poland,24,Woman,349
+Poland,20,Woman,184
+Poland,47,Man,95
+Poland,30,Man,86
+Russian Federation,38,Woman,577
+Russian Federation,48,Woman,570
+Russian Federation,74,Woman,521
+Russian Federation,29,Man,433
+Russian Federation,45,Man,376
+Russian Federation,65,Woman,343
+Russian Federation,48,Man,317
+Russian Federation,46,Woman,296
+Russian Federation,58,Woman,264
+Russian Federation,21,Woman,243
+Russian Federation,24,Woman,231
+Russian Federation,65,Woman,207
+Russian Federation,68,Woman,138
+Singapore,60,Man,455
+Singapore,23,Man,447
+Singapore,40,Woman,426
+Singapore,31,Man,379
+Singapore,72,Woman,171
+Singapore,36,Man,165
+Singapore,43,Woman,14
+Singapore,71,Woman,12
+South Africa,54,Man,527
+South Africa,33,Woman,477
+South Africa,55,Man,464
+South Africa,35,Woman,456
+South Africa,56,Woman,452
+South Africa,50,Man,391
+South Africa,19,Man,382
+South Africa,47,Man,356
+South Africa,43,Man,318
+South Africa,65,Man,281
+South Africa,48,Man,253
+South Africa,24,Woman,190
+South Africa,28,Woman,182
+South Africa,72,Woman,171
+South Africa,33,Woman,160
+South Africa,57,Man,131
+South Africa,33,Woman,91
+South Africa,30,Man,59
+South Africa,37,Woman,28
+South Korea,34,Woman,540
+South Korea,21,Woman,523
+South Korea,66,Man,513
+South Korea,61,Man,480
+South Korea,22,Man,419
+South Korea,33,Man,376
+South Korea,52,Woman,318
+South Korea,35,Woman,285
+South Korea,47,Man,273
+South Korea,73,Woman,264
+South Korea,71,Woman,149
+South Korea,59,Woman,76
+Spain,49,Woman,594
+Spain,73,Woman,528
+Spain,29,Woman,525
+Spain,47,Woman,518
+Spain,52,Man,455
+Spain,70,Woman,328
+Spain,51,Man,269
+Spain,57,Woman,266
+Spain,57,Man,256
+Spain,72,Man,247
+Spain,30,Woman,122
+Spain,71,Man,57
+Sweden,52,Man,552
+Sweden,40,Man,458
+Sweden,41,Woman,311
+Sweden,22,Woman,296
+Sweden,27,Woman,276
+Sweden,27,Woman,273
+Sweden,68,Woman,256
+Sweden,71,Woman,254
+Sweden,72,Man,244
+Sweden,38,Man,196
+Sweden,73,Man,184
+Sweden,19,Man,85
+Sweden,36,Woman,35
+Turkey,60,Man,594
+Turkey,73,Woman,588
+Turkey,59,Man,579
+Turkey,68,Woman,524
+Turkey,41,Woman,518
+Turkey,42,Woman,292
+Turkey,63,Man,279
+Turkey,74,Woman,259
+Turkey,67,Woman,194
+Turkey,58,Man,160
+Turkey,24,Woman,104
+Ukraine,50,Man,588
+Ukraine,28,Woman,549
+Ukraine,44,Woman,538
+Ukraine,40,Woman,484
+Ukraine,58,Man,464
+Ukraine,36,Woman,418
+Ukraine,72,Woman,403
+Ukraine,74,Woman,363
+Ukraine,67,Man,347
+Ukraine,33,Man,295
+Ukraine,32,Woman,291
+Ukraine,48,Woman,267
+Ukraine,19,Man,242
+Ukraine,67,Man,128
+Ukraine,46,Woman,58
+Ukraine,26,Woman,28
+Ukraine,53,Man,25
+United Kingdom,44,Woman,330
+United Kingdom,36,Woman,276
+United Kingdom,28,Man,274
+United Kingdom,62,Man,207
+United Kingdom,43,Man,201
+United Kingdom,55,Woman,111
+United Kingdom,53,Man,87
+United Kingdom,62,Woman,75
+United States,30,Man,576
+United States,22,Man,545
+United States,40,Man,531
+United States,72,Woman,518
+United States,20,Man,499
+United States,51,Woman,496
+United States,71,Woman,422
+United States,67,Man,380
+United States,60,Man,379
+United States,59,Woman,349
+United States,40,Woman,331
+United States,47,Man,310
+United States,54,Woman,307
+United States,50,Man,296
+United States,57,Woman,293
+United States,25,Woman,265
+United States,45,Man,209
+United States,65,Woman,143
+United States,51,Man,142
+United States,23,Woman,136
+United States,42,Woman,36
+Vietnam,50,Woman,578
+Vietnam,25,Woman,565
+Vietnam,23,Woman,561
+Vietnam,23,Man,478
+Vietnam,56,Man,467
+Vietnam,58,Man,448
+Vietnam,63,Woman,334
+Vietnam,57,Man,317
+Vietnam,39,Woman,261
+Vietnam,48,Man,226
+Vietnam,56,Woman,128
+Vietnam,48,Man,61
+Vietnam,40,Man,11
