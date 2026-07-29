@@ -83,6 +83,6 @@ Dans le navigateur, ouvrir `Sell4All_Data_Cleaning.ipynb` et exécuter toutes le
 
 ## Fichiers du dépôt
 
-- `Sell4All_Data_Cleaning.ipynb` — notebook complet (audit, analyse, nettoyage)
+- `SA_data_Cleaning.ipynb` — notebook complet (audit, analyse, nettoyage)
 - `dataset-sell4all-clean.csv` — dataset nettoyé (`Country`, `Age`, `Gender`, `Customer spendings`)
 - `README.md` — ce fichier
