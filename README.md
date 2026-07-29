@@ -1,4 +1,4 @@
-# Sell4All — Exploration et nettoyage des données clients
+# Sell4All ( Exploration et nettoyage des données clients)
 
 ## 1. Besoin traité
 
