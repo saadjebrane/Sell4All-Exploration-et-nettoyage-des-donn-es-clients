@@ -6,19 +6,19 @@ Sell4All, une entreprise de vente en ligne de vêtements d'occasion, souhaite la
 
 ## 2. Étapes suivies
 
-**Jour 1 — Exploration et audit**
+**Jour 1  Exploration et audit**
 - Installation de l'environnement (Miniconda, Jupyter, Pandas, Matplotlib).
 - Chargement du CSV, aperçu des 5 premières lignes, résumé technique (`info()`, `describe()`).
 - Audit de qualité sur 5 dimensions : complétude, validité, exactitude, cohérence, unicité.
 
-**Jour 2 — Analyse et visualisation**
+**Jour 2 Analyse et visualisation**
 - Calcul de la moyenne/médiane de `Age` et `Customer spendings`.
 - Médiane d'âge par pays (question bonus).
 - Détection des outliers par la méthode IQR.
 - Comparaison sum / mean / median des dépenses par pays.
 - Graphiques à barres (dépenses par pays, répartition par genre, distribution de l'âge).
 
-**Jour 3 — Nettoyage, validation et export**
+**Jour 3  Nettoyage, validation et export**
 - Correction du `Gender` (`Women` → `Woman`).
 - Conversion des dates et heures en types appropriés (`datetime`, `time`).
 - Suppression des clients ayant dépensé moins de 10 €.
